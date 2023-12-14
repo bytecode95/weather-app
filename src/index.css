@@ -1,9 +1,9 @@
 body {
   margin: 0;
   font-family: "Roboto", Arial !important;
-  background-color: #d5d4d4;
+  background: rgb(39, 143, 150);
+  background: radial-gradient(circle, rgba(39, 143, 150, 1) 0%, rgba(45, 100, 95, 1) 100%);
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
